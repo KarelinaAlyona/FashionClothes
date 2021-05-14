@@ -1,0 +1,32 @@
+@media(max-width:575px) {
+
+    /*Menu*/
+    .menu {
+         position: static;
+    }
+    #header {
+        margin-top: 0px;
+        background-size: cover;
+        min-height: 100px;
+    }
+
+
+
+    /*Team, pictures*/
+    .pictures {
+        width: 70%;
+        margin: 0 auto;
+        margin-bottom: 7px;
+    }
+
+
+
+    /*Prices*/
+    .tariffs {
+        margin: 0 auto;
+        width: 75%;
+    }
+    .tariffs li:last-child {
+        margin-bottom: 13px;
+    }
+}
